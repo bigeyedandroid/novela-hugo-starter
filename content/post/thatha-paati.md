@@ -5,7 +5,6 @@ title: Thatha & Paati ❤️
 excerpt: ''
 date: 2020-04-11T23:00:00+00:00
 hero: ''
-draft: true
 
 ---
 Growing up, I always saw my *Thatha* as my hero. He was a tall man with a dynamic personality. He could crack up any room with a simple wordplay. You could hear him guffaw along with the rest of the audience who’d be in splits.
