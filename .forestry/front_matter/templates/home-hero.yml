@@ -2,25 +2,25 @@
 label: Home Hero
 hide_body: true
 fields:
-  - name: heading
-    type: text
-    config:
-      required: false
-    label: Heading
-    description: The text displayed in the hero
-  - name: subHeading
-    type: text
-    config:
-      required: false
-    label: SubHeading
-    description: Sub heading to be displayed under the Hero Heading
-  - name: maxWidthPX
-    type: number
-    label: Max Width
-    description: The maximum possible width of the hero (in pixels)
-    default: '652'
-    config:
-      required: true
-      min:
-      max:
-      step:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  description: The text displayed in the hero
+- name: subHeading
+  type: text
+  config:
+    required: false
+  label: SubHeading
+  description: Sub heading to be displayed under the Hero Heading
+- name: maxWidthPX
+  type: number
+  label: Max Width
+  description: The maximum possible width of the hero (in pixels)
+  default: '652'
+  config:
+    required: true
+    min: 
+    max: 
+    step: 

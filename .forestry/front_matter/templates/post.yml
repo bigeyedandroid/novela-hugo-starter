@@ -43,6 +43,6 @@ fields:
 - name: personal
   type: tag_list
   default: []
-  label: personal
+  label: Tag
 pages:
 - content/post/thatha-paati.md
