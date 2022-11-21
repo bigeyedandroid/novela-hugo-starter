@@ -6,7 +6,7 @@ excerpt: 'COVID was a period of anxiety, fear, loss and a spectrum of other emot
   But, it did get me closer to my Paati. This is a small summary of unpacking the
   emotions that I struggle to express on the daily. '
 date: 2020-04-11T23:00:00+00:00
-hero: "/images/thatha2.png"
+hero: "/images/thatha1.png"
 
 ---
 Growing up, I always saw my _Thatha_ as my hero. He was a tall man with a dynamic personality. He could crack up any room with a simple wordplay. You could hear him guffaw along with the rest of the audience who’d be in splits.
