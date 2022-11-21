@@ -6,7 +6,7 @@ excerpt: 'COVID was a period of anxiety, fear, loss and a spectrum of other emot
   But, it did get me closer to my Paati. This is a small summary of unpacking the
   emotions that I struggle to express on the daily. '
 date: 2020-04-11T23:00:00+00:00
-hero: ''
+hero: "/images/thatha1-1.png"
 
 ---
 Growing up, I always saw my _Thatha_ as my hero. He was a tall man with a dynamic personality. He could crack up any room with a simple wordplay. You could hear him guffaw along with the rest of the audience who’d be in splits.
@@ -15,15 +15,15 @@ _Thatha_, in his bachelor days, was a part of a real-fancy drama troupe. On some
 
 It probably reminded him of all the things he had to leave behind to marry my _Paati_. Now, don’t get me wrong. They were not forced to marry each other and were wonderfully happy together, however, leaving his dreams of becoming an actor was a prerequisite to marrying my _Paati_.
 
-The condition stemmed from an insecurity. You see, back then, actors led radically different lives from those that followed the social norms of, well, living. There were always speculations on the street or printed articles about actors marrying their 3rd wife or having extra marital affairs and how the other wives were simply okay with it. Were they forced to be okay with it? One can only guess.
+The condition stemmed from insecurity. You see, back then, actors led radically different lives from those that followed the social norms of, well, living. There were always speculations on the street or print articles about actors marrying their 3rd wife or having extramarital affairs and how the other wives were simply okay with it. Were they forced to be okay with it? One can only guess.
 
-My _Paati’s_ family was very sure that they didn’t want that for their little girl; and rightly so.
+My _Paati’s_ family was very sure that they didn’t want that for their little girl, and rightly so.
 
 _Thatha’s_ family agreed to make this happen and a few months later, _Thatha_ and _Paati_ had a simple ceremony to tie the knot. Even though he had let a significant part of his life go, he continued to be the same charming, baritone-voiced, funny guy. He had found different goals to focus on.
 
 ![](/images/thatha1.png)
 
-As a shy, skinny kid, who didn’t always fit in, I used to watch in fascination how he’d get an entire room to listen to him with undivided attention. Not a single head turned away from his ever-smiling face. He would always try really hard to stop chuckling at his own joke. I’d be right there putting my head against his big belly waiting for the laughter to begin. I found comfort in that sound.
+As a shy, skinny kid, who didn’t always fit in, I used to watch in fascination how he’d get an entire room to listen to him with undivided attention. Not a single head turned away from his ever-smiling face. He would always try hard to stop chuckling at his own joke. I’d be right there putting my head against his big belly waiting for the laughter to begin. I found comfort in that sound.
 
 I would always listen to an endless train of compliments for my _Thatha_ from people we know, people who’d just met him, people who thought he looked like someone famous, and even strangers in places we’d frequent. I’d always wonder, “How did my _Paati_ get so lucky?”.
 
