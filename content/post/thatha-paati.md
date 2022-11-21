@@ -1,7 +1,7 @@
 ---
 timeToRead: 6
 authors: []
-title: Thatha & Paati ❤️
+title: Thatha & Paati ♥️
 excerpt: 'COVID was a period of anxiety, fear, loss and a spectrum of other emotions.
   But, it did get me closer to my Paati. This is a small summary of unpacking the
   emotions that I struggle to express on the daily. '
