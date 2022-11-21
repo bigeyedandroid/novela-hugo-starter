@@ -1,21 +1,18 @@
-baseURL: "https://example.com"
-languageCode: "en-us"
-title: "Hugo Novela"
+baseURL: 'https://example.com'
+languageCode: 'en-us'
+title: 'Mostly Harmless'
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
 # Theme settings
 # theme: novela
-module:
-  imports:
-    - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: '#'
+  github: '#'
+  instagram: '#'
+  linkedin: '#'
+  dribbble: '#'
+  youtube: '#'
 taxonomies:
   author: authors
