@@ -7,7 +7,6 @@ excerpt: Started with a strange story about what balconies have to say but ended
   being a post about longing and finding your place. Oops.
 date: 2021-11-04T16:00:00+00:00
 hero: "/images/balcony-horizontal-set-vector.jpeg"
-draft: true
 
 ---
 My auto took the usual Uru-Pimento-VegaCity road on my way back from the office last night. Pimento is that big cylindrical building with a helipad right next to Uru that I stare at every time we go past it. Possibly for the want of things fancier than one has.
