@@ -5,9 +5,11 @@ personal: []
 title: "The Red Cup \U0001F534"
 excerpt: ''
 date: 2022-11-24T13:00:00+00:00
-hero: ''
+hero: "/images/redcup.webp"
 
 ---
+[_Image Source: Grace: That Even The World Can Pass Through It_](https://ibiyinka.com/)
+
 She stuck her 4 fingers and 2 thumbs out to sign out the number 6 in an effort to answer the guest’s question. The house was hosting two new guests. She’d never seen them before. But as protocol follows, she knew the red cups would be out soon.
 
 She loved the red cup. It was just solid blood-red. The nice kind with no other prints or colours. Just plain beautiful red. She always wanted to have her chocolate milk in it. But her parents always told her that it was for guests only. She always wondered why.
