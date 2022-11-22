@@ -9,6 +9,8 @@ date: 2021-11-04T16:00:00+00:00
 hero: "/images/balcony-horizontal-set-vector.jpeg"
 
 ---
+[_Image Source: From a repository by Macrovector_](https://www.vecteezy.com/members/macrovector)
+
 My auto took the usual Uru-Pimento-VegaCity road on my way back from the office last night. Pimento is that big cylindrical building with a helipad right next to Uru that I stare at every time we go past it. Possibly for the want of things fancier than one has.
 
 Pointless facts aside, it got me thinking about how each of us live such different lives and you can almost, just almost guess the story from looking at the way people keep their balconies.
