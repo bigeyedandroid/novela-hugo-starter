@@ -1,5 +1,5 @@
 ---
-timeToRead: 3
+timeToRead: 1
 authors: []
 personal: []
 title: "Prisoner of War \U0001F512"
