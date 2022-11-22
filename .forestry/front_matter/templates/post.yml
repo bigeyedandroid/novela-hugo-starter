@@ -45,5 +45,6 @@ fields:
   default: []
   label: Tag
 pages:
+- content/post/balconies-and-comfort.md
 - content/post/prisoner-of-war.md
 - content/post/thatha-paati.md
