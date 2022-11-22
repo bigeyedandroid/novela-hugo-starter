@@ -45,4 +45,5 @@ fields:
   default: []
   label: Tag
 pages:
+- content/post/prisoner-of-war.md
 - content/post/thatha-paati.md
