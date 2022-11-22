@@ -9,6 +9,8 @@ date: 2020-05-20T15:00:00+00:00
 hero: "/images/limbo3.webp"
 
 ---
+[_Image Source: From the video game Limbo_](https://en.wikipedia.org/wiki/Limbo_(video_game))
+
 He sat in the corner
 
 wincing in pain.
