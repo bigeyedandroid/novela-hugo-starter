@@ -8,7 +8,6 @@ excerpt: 'I wrote this after reading a post by one of my favourite authors, Meer
   about things I don''t even own. '
 date: 2021-12-01T23:00:00+00:00
 hero: "/images/_mortal_feelings__by_ibiyinka.jpeg"
-draft: true
 
 ---
 # Space and Sharing
