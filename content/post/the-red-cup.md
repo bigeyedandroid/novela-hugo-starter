@@ -6,7 +6,6 @@ title: "The Red Cup \U0001F534"
 excerpt: ''
 date: 2022-11-24T13:00:00+00:00
 hero: ''
-draft: true
 
 ---
 She stuck her 4 fingers and 2 thumbs out to sign out the number 6 in an effort to answer the guest’s question. The house was hosting two new guests. She’d never seen them before. But as protocol follows, she knew the red cups would be out soon.
