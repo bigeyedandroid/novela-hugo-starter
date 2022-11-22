@@ -1,12 +1,12 @@
 ---
-timeToRead: 1
+timeToRead: 3
 authors: []
 personal: []
 title: "Prisoner of War \U0001F512"
 excerpt: 'I''ve had very different interpretations of this poem shared with me. So,
   I want to leave this as is with no explanation to bias you. '
 date: 2020-05-20T15:00:00+00:00
-hero: "/images/undraw_relaunch_day_902d.png"
+hero: "/images/limbo3.webp"
 
 ---
 He sat in the corner
