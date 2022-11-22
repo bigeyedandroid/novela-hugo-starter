@@ -6,7 +6,7 @@ excerpt: 'COVID was a period of anxiety, fear, loss and a spectrum of other emot
   But, it did get me closer to my Paati. This is a small summary of unpacking the
   emotions that I struggle to express on the daily. '
 date: 2020-04-11T23:00:00.000+00:00
-hero: "/images/thatha1-1.png"
+hero: "/images/86b0289c-e980-490b-b2ac-04ddbceb8502.jpg"
 personal: []
 
 ---
