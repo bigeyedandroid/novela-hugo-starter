@@ -6,6 +6,6 @@ avatar: "/images/bea-logo.png"
 social:
 - url: https://twitter.com/prakyavasudevan
   title: Twitter
-featured: false
+featured: true
 
 ---
