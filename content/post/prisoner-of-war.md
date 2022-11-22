@@ -7,7 +7,6 @@ excerpt: 'I''ve had very different interpretations of this poem shared with me. 
   I want to leave this as is with no explanation to bias you. '
 date: 2020-05-20T15:00:00+00:00
 hero: "/images/undraw_relaunch_day_902d.png"
-draft: true
 
 ---
 He sat in the corner
