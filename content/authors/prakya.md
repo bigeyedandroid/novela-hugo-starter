@@ -7,6 +7,5 @@ social:
 - url: https://twitter.com/prakyavasudevan
   title: Twitter
 featured: false
-draft: true
 
 ---
