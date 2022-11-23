@@ -3,7 +3,8 @@ timeToRead: 5
 authors: []
 personal: []
 title: "The Red Cup \U0001F534"
-excerpt: ''
+excerpt: Wrote a small piece on discrimination in subtle ways. Not my proudest work
+  but I'll eventually figure out a better way to end it.
 date: 2022-11-24T13:00:00+00:00
 hero: "/images/redcup.webp"
 
