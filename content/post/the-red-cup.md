@@ -1,5 +1,5 @@
 ---
-timeToRead: 5
+timeToRead: 6
 authors: []
 personal: []
 title: "The Red Cup \U0001F534"
