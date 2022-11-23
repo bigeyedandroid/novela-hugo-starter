@@ -6,7 +6,7 @@ title: "Space and Sharing \U0001F9FA"
 excerpt: 'I wrote this after reading a post by one of my favourite authors, Meera
   Ganapathi. This was written in an attempt to get over my ability to feel territorial
   about things I don''t even own. '
-date: 2021-12-17T23:00:00+00:00
+date: 2020-12-17T23:00:00+00:00
 hero: "/images/_mortal_feelings__by_ibiyinka.jpeg"
 
 ---
