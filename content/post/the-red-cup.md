@@ -7,6 +7,7 @@ excerpt: Wrote a small piece on discrimination in subtle ways. Not my proudest w
   but I'll eventually figure out a better way to end it.
 date: 2022-11-24T13:00:00+00:00
 hero: "/images/redcup.webp"
+draft: true
 
 ---
 [_Image Source: Grace: That Even The World Can Pass Through It_](https://ibiyinka.com/)
