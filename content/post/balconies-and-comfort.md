@@ -5,7 +5,7 @@ personal: []
 title: "Balconies and Comfort \U0001F343"
 excerpt: Started with a strange story about what balconies have to say but ended up
   being a post about longing and finding your place. Oops.
-date: 2021-11-04T16:00:00+00:00
+date: 2020-10-12T15:00:00+00:00
 hero: "/images/balcony-horizontal-set-vector.jpeg"
 
 ---
