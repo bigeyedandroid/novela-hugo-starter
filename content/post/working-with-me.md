@@ -9,7 +9,6 @@ date: 2021-12-16T00:00:00+00:00
 hero: "/images/dt221130.gif"
 
 ---
-
 # Working With Me
 
 _Image Source:_ [https://dilbert.com/](https://dilbert.com/ "https://dilbert.com/")
