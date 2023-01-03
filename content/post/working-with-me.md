@@ -7,7 +7,6 @@ excerpt: A guide to working with me (Prakya). I believe this will change over ti
   but I'm keeping the v1 as is for now.
 date: 2021-12-16T00:00:00+00:00
 hero: "/images/faust_20.png"
-draft: true
 
 ---
 # Working With Me
