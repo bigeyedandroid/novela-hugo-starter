@@ -9,15 +9,18 @@ date: 2021-12-16T00:00:00+00:00
 hero: "/images/faust_20.png"
 
 ---
+
 # Working With Me
+
+_Image Source:_ [_https://xkcd.com/_](https://xkcd.com/ "https://xkcd.com/")
 
 When I first heard someone pitching a "Working with me" guide, I couldn't help but feel a bit of judgement for someone pitching what could have been the most narcissistic thing ever.
 
 But, I realized that regardless of whether you have this written down, everyone is just trying to figure out ways to work better, with you or someone else.
 
-This should either help someone or not. But I'd like to run this as an experiment to see if this helps my existing work relationships or not. 
+This should either help someone or not. But I'd like to run this as an experiment to see if this helps my existing work relationships or not.
 
-I also decided to put this out in public should anyone else want to use this as a template. 
+I also decided to put this out in public should anyone else want to use this as a template.
 
 ***
 
@@ -29,7 +32,7 @@ I enjoy learning new things. It is one of the biggest reasons I choose to be a g
 
 Given that I wear multiple hats very frequently, I tend to take my job more seriously. For the fear of failing or letting my team down. So, I am naturally inclined to own anything I take for whatever reason.
 
-I do not tolerate people treating others as someone beneath themselves for any reason. So even if you’re a senior at work and I see/hear you treating someone else as someone beneath your rank (whether it is intentional or not), I will make sure you hear from me about it. 
+I do not tolerate people treating others as someone beneath themselves for any reason. So even if you’re a senior at work and I see/hear you treating someone else as someone beneath your rank (whether it is intentional or not), I will make sure you hear from me about it.
 
 ##### Value Time
 
