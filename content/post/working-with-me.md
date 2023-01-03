@@ -6,13 +6,13 @@ title: Working With Me
 excerpt: A guide to working with me (Prakya). I believe this will change over time
   but I'm keeping the v1 as is for now.
 date: 2021-12-16T00:00:00+00:00
-hero: "/images/faust_20.png"
+hero: "/images/dt221130.gif"
 
 ---
 
 # Working With Me
 
-_Image Source:_ [_https://xkcd.com/_](https://xkcd.com/ "https://xkcd.com/")
+_Image Source:_ [https://dilbert.com/](https://dilbert.com/ "https://dilbert.com/")
 
 When I first heard someone pitching a "Working with me" guide, I couldn't help but feel a bit of judgement for someone pitching what could have been the most narcissistic thing ever.
 
@@ -20,7 +20,7 @@ But, I realized that regardless of whether you have this written down, everyone 
 
 This should either help someone or not. But I'd like to run this as an experiment to see if this helps my existing work relationships or not.
 
-I also decided to put this out in public should anyone else want to use this as a template.
+I also decided to put this out in public should anyone else want to use this as a template. This is also me feeding my very large ego and making myself seem more important than I actually am. Enjoy.
 
 ***
 
