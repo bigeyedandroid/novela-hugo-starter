@@ -15,8 +15,6 @@ hero: "/images/product_launch_2x.png"
 draft: true
 
 ---
-# Want to get into Product Management?
-
 _Image Source:_ [https://xkcd.com/2473/](https://xkcd.com/2473/ "https://xkcd.com/2473/")
 
 This will outline why you might want to reconsider that.
