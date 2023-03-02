@@ -10,7 +10,7 @@ excerpt: This will outline why you might want to reconsider that. While I starte
   extremely important one is that Product Management as it stands today is relatively
   new and the expectations vary widely across industries, growth stages, funding stages,
   company structures. Take what you think makes sense and discard what doesn’t.
-date: 2023-03-02T18:30:00+00:00
+date: 2023-03-02T17:47:00+00:00
 hero: "/images/product_launch_2x.png"
 
 ---
