@@ -12,7 +12,6 @@ excerpt: This will outline why you might want to reconsider that. While I starte
   company structures. Take what you think makes sense and discard what doesn’t.
 date: 2023-03-02T18:30:00+00:00
 hero: "/images/product_launch_2x.png"
-draft: true
 
 ---
 _Image Source:_ [https://xkcd.com/2473/](https://xkcd.com/2473/ "https://xkcd.com/2473/")
