@@ -11,13 +11,13 @@ excerpt: This will outline why you might want to reconsider that. While I starte
   new and the expectations vary widely across industries, growth stages, funding stages,
   company structures. Take what you think makes sense and discard what doesn’t.
 date: 2023-03-02T18:30:00+00:00
-hero: "/images/work.png"
+hero: "/images/product_launch_2x.png"
 draft: true
 
 ---
 # Want to get into Product Management?
 
-_Image Source:_ [https://www.explainxkcd.com/wiki/index.php/1741:_Work](https://www.explainxkcd.com/wiki/index.php/1741:_Work "https://www.explainxkcd.com/wiki/index.php/1741:_Work")
+_Image Source:_ [https://xkcd.com/2473/](https://xkcd.com/2473/ "https://xkcd.com/2473/")
 
 This will outline why you might want to reconsider that.
 
