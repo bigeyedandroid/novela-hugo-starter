@@ -17,7 +17,7 @@ draft: true
 ---
 _Image Source:_ [https://xkcd.com/2473/](https://xkcd.com/2473/ "https://xkcd.com/2473/")
 
-This will outline why you might want to reconsider that.
+This essay will outline why you might want to reconsider that.
 
 To P or not to P? (Sorry, I thought it too clever to not use it)
 
