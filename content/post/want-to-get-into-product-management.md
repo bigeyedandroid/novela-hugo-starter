@@ -2,7 +2,7 @@
 timeToRead: 8
 authors: []
 personal: []
-title: Want to get into Product Management?
+title: "Want to get into Product Management? \U0001F6D1"
 excerpt: This will outline why you might want to reconsider that. While I started
   this essay as a rant to the world, I’ve tried by best to add helpful reads that
   you can go through to get a better understanding of each of the major sections covered
