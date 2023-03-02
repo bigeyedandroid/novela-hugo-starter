@@ -11,11 +11,13 @@ excerpt: This will outline why you might want to reconsider that. While I starte
   new and the expectations vary widely across industries, growth stages, funding stages,
   company structures. Take what you think makes sense and discard what doesn’t.
 date: 2023-03-02T18:30:00+00:00
-hero: ''
+hero: "/images/work.png"
 draft: true
 
 ---
 # Want to get into Product Management?
+
+_Image Source:_ [https://www.explainxkcd.com/wiki/index.php/1741:_Work](https://www.explainxkcd.com/wiki/index.php/1741:_Work "https://www.explainxkcd.com/wiki/index.php/1741:_Work")
 
 This will outline why you might want to reconsider that.
 
@@ -150,7 +152,7 @@ Product management is a relatively new field, and there is not yet a well-define
 
 I’ve tried to paint as real a picture I can with what little I have come to realise with my experience. I am sure that you can switch out “product management” from this essay with another role and most or parts of this might still hold true.
 
-While a career in product management can be highly rewarding, it is important to have a realistic view of the role. Like most roles, this is one with its own circus of wonders and complexities. Just figure out the kind of circus you want to deal with and your place in the circus. :)  
+While a career in product management can be highly rewarding, it is important to have a realistic view of the role. Like most roles, this is one with its own circus of wonders and complexities. Just figure out the kind of circus you want to deal with and your place in the circus. :)
 
 I’m also going to leave you with an article that made me think very differently about this role. It’s a very interesting take on the role itself.
 
