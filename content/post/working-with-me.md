@@ -5,8 +5,9 @@ personal: []
 title: Working With Me ⚙️
 excerpt: A guide to working with me (Prakya). I believe this will change over time
   but I'm keeping the v1 as is for now.
-date: 2021-12-16T00:00:00+00:00
+date: 2021-12-16T00:00:00.000+00:00
 hero: "/images/dt221130.gif"
+draft: true
 
 ---
 # Working With Me
