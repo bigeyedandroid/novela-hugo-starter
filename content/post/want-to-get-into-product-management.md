@@ -28,7 +28,7 @@ I don’t think of myself as the gatekeeper to product management careers but fr
 
 Product management can be a really fulfilling career but it is not without its own set of challenges. Don’t jump on the product wagon without understanding the effort it takes to being one.
 
-While I started this essay as a rant to the world, I’ve tried by best to add helpful reads that you can go through to get a better understanding of each of the major sections covered here. There are a number of caveats that aren’t fully covered here. However, an extremely important one is that Product Management as it stands today is relatively new and the expectations vary widely across industries, growth stages, funding stages, company structures. Take what you think makes sense and discard what doesn’t (also, help me understand why, I’d love to hear your experience).
+While I started this essay as a rant to the world, I’ve tried my best to add helpful reads that you can go through to get a better understanding of each of the major sections covered here. There are a number of caveats that aren’t fully covered here. However, an extremely important one is that Product Management as it stands today is relatively new and the expectations vary widely across industries, growth stages, funding stages, company structures. Take what you think makes sense and discard what doesn’t (also, help me understand why, I’d love to hear your experience).
 
 `Note`: All the views expressed here are my own and are purely based on my experience in Product and some from a few debates discussions around some of these topics. I am no authority on the subject, domain and I’m still quite young in my career and acknowledge that some or a lot of this could change in the future. :)
 
@@ -36,7 +36,7 @@ While I started this essay as a rant to the world, I’ve tried by best to add h
 
 #### Reality: You don’t (always) own the roadmap. You own the execution.
 
-People have this common notion that PMs actually own the roadmap and that’s rarely ever the case. The road to being more invested in strategic decisions is a long one. The roadmap is driven by Founders, CXOs in smaller organisations and a head of product in companies that have the hierarchy in place. Now, like a few others, I have had the fortune of contributing to the roadmap building but this is an exception and not a rule.
+People have this common notion that PMs actually own the roadmap and that’s rarely ever the case. The road to being more involved in strategic decisions is a long one. The roadmap is driven by Founders, CXOs in smaller organisations and a head of product in companies that have the hierarchy in place. Like a few fortunate others, I've too had a chance of contributing to the building of a roadmap, but this an exception, not the norm.
 
 It also matters what defines your company’s growth - is it a sales-led, product-led or engineering-led company? This is a crucial step in understanding the level of ownership that will come your way. Needless to say, a product manager in a product-led company has the most influence among the three types but the general idea around all three types is to ensure you’re doing right by your users and ergo, the product & company.
 
@@ -74,7 +74,7 @@ Helpful reads:
 
 Depending on the stage of the company and the type of product you’re building, your metrics would differ.
 
-For example, at an early stage company, I was measured by the increase in user base. At the growth stage, I’m measured by the increase in users, retention and feature adoption. I’m also measured on how happy users are with the product.
+For example, at an early stage company, I was measured by the increase in user base. At the growth stage, I’m measured by the increase in users, retention and feature adoption. I’m also measured on how happy our users are with the product.
 
 Products that are transactional in nature tend to have revenue goals for their PMs along with other base metrics laid out above.
 
