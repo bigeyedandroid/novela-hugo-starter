@@ -30,7 +30,7 @@ Product management can be a really fulfilling career but it is not without its o
 
 While I started this essay as a rant to the world, I’ve tried my best to add helpful reads that you can go through to get a better understanding of each of the major sections covered here. There are a number of caveats that aren’t fully covered here. However, an extremely important one is that Product Management as it stands today is relatively new and the expectations vary widely across industries, growth stages, funding stages, company structures. Take what you think makes sense and discard what doesn’t (also, help me understand why, I’d love to hear your experience).
 
-`Note`: All the views expressed here are my own and are purely based on my experience in Product and some from a few debates discussions around some of these topics. I am no authority on the subject, domain and I’m still quite young in my career and acknowledge that some or a lot of this could change in the future. :)
+`Note`: All the views expressed here are my own and are purely based on my experience in Product and some from a few debates and discussions around some of these topics. I am no authority on the subject, domain and I’m still quite young in my career and acknowledge that some or a lot of this could change in the future. :)
 
 ### Expectation 1: I get to own the entire product and build really cool stuff.
 
