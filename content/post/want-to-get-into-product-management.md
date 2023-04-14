@@ -11,10 +11,10 @@ excerpt: This will outline why you might want to reconsider that. While I starte
   new and the expectations vary widely across industries, growth stages, funding stages,
   company structures. Take what you think makes sense and discard what doesn’t.
 date: 2023-03-02T17:47:00+00:00
-hero: "/images/product_launch_2x.png"
+hero: "/images/work.png"
 
 ---
-_Image Source:_ [https://xkcd.com/2473/](https://xkcd.com/2473/ "https://xkcd.com/2473/")
+_Image Source:_ [https://xkcd.com](https://xkcd.com/2473/ "https://xkcd.com/2473/")
 
 This essay will outline why you might want to reconsider that.
 
