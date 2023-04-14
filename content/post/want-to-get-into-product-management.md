@@ -11,7 +11,7 @@ excerpt: This will outline why you might want to reconsider that. While I starte
   new and the expectations vary widely across industries, growth stages, funding stages,
   company structures. Take what you think makes sense and discard what doesn’t.
 date: 2023-03-02T17:47:00+00:00
-hero: "/images/work.png"
+hero: "/images/screenshot-2023-04-14-at-11-46-56-pm.png"
 
 ---
 
