@@ -14,7 +14,6 @@ date: 2023-03-02T17:47:00+00:00
 hero: "/images/screenshot-2023-04-14-at-11-46-56-pm.png"
 
 ---
-
 _Image Source:_ [https://xkcd.com](https://xkcd.com/2473/ "https://xkcd.com/2473/")
 
 This essay will outline why you might want to reconsider that.
